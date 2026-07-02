@@ -10,11 +10,6 @@ This project focuses on implementing core third-person shooter mechanics includi
 
 ![Cover](Images/cover.png)
 
-## 🎥 Gameplay Demo
-
-[▶ Watch Gameplay Video](Images/Gameplay.mp4)
-
-> A short 20-second gameplay clip demonstrating the third-person aiming system, projectile shooting, and hit detection mechanics.
 
 ---
 
@@ -184,7 +179,19 @@ This repository focuses on the custom gameplay programming that was added on top
 - Enemy Health System
 
 ---
+## 🔗 Original LinkedIn Showcase
 
+This project was originally shared on LinkedIn as part of my **Gameplay Programming Devlog** series.
+
+**LinkedIn Post:**
+https://www.linkedin.com/posts/abikarthick_i-recently-built-a-third-person-projectile-activity-7477078553465880577-Mdzu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSOB30BmmB1CU-K0qKbTzBatWHrXxYbp5U
+
+---
+
+# Preview
+
+...
+---
 # Author
 
 **Abikarthick G**
