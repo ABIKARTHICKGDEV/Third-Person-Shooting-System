@@ -10,9 +10,11 @@ This project focuses on implementing core third-person shooter mechanics includi
 
 ![Cover](Images/cover.png)
 
-https://github.com/user-attachments/assets/your-video-id
+## 🎥 Gameplay Demo
 
-> https://github.com/ABIKARTHICKGDEV/Third-Person-Shooting-System/blob/main/Images/Gameplay.mp4
+[▶ Watch Gameplay Video](Images/Gameplay.mp4)
+
+> A short 20-second gameplay clip demonstrating the third-person aiming system, projectile shooting, and hit detection mechanics.
 
 ---
 
