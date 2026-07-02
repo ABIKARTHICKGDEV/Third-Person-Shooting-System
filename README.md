@@ -12,7 +12,7 @@ This project focuses on implementing core third-person shooter mechanics includi
 
 https://github.com/user-attachments/assets/your-video-id
 
-> Replace the video link above after uploading `gameplay.mp4` to the repository.
+> https://github.com/ABIKARTHICKGDEV/Third-Person-Shooting-System/blob/main/Images/Gameplay.mp4
 
 ---
 
